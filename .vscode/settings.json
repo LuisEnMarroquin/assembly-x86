@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "editor.detectIndentation": false,
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    "**/*.o": true,
+    "**/exit": true,
+    "**/.DS_Store": true,
+    "**/.directory": true,
+    "**/desktop.ini": true
+  }
+}
