@@ -26,7 +26,7 @@ Link the object file generated to a file that can be executed by the system
 ld exit.o -o exit
 ```
 
-Run the program (if you are using Windows you have to install and run with WSL or MinGW)
+Run the compiled program
 
 ```shell
 ./exit # Linux / macOS
@@ -42,7 +42,7 @@ echo $?
 To also see that exit code changes you can run before a commands that fails and output it's exit code that will be `1`
 
 ```shell
-cd undefinedFolder
+cd nonExistingFolder
 echo $?
 ```
 
