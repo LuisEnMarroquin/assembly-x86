@@ -10,3 +10,6 @@ exit
 
 # Notes files
 nothing.*
+
+# Logs
+*.log

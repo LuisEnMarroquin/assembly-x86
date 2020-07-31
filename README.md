@@ -10,7 +10,7 @@ If you are on Linux or macOS check that you have the following dependencies
 type -a as ld
 ```
 
-If you are on Windows use MinGW or WSL and also install the same software
+If you are on Windows use MinGW or WSL and install the same software
 
 ## Compile and execute
 
